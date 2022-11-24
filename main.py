@@ -2,6 +2,7 @@ import time
 from functions import get_todos, write_todos
 
 now = time.strftime("%b %d, %Y %H:%M:%S")
+print("The current Date and Time for the entries is below:")
 print(f"It is {now}.")
 
 
