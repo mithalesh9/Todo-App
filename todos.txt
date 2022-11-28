@@ -8,3 +8,6 @@ Catch the ball
 Play tennis
 Learn Java
 Learn Baseball
+Hi
+Hello
+Buy Grocery
