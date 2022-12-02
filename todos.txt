@@ -1,13 +1,4 @@
-Clean
-Dance
-Throw
-Learn
-Throw
-fix the drawer
-Catch the ball
-Play tennis
+Learn Python
 Learn Java
-Learn Baseball
-Hi
-Hello
-Buy Grocery
+Play Cricket
+Buy a grocery
