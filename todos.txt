@@ -1,4 +1,3 @@
-Learn Python
-Learn Java
-Play Cricket
-Buy a grocery
+Learn java
+Buy grocery
+Throw the garbage
