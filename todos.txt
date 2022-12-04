@@ -2,3 +2,6 @@ Learn java
 Buy grocery
 Throw the garbage
 Play cricket
+Learn Python
+Print the notes
+Buy vegetables
